@@ -1,2 +1,4 @@
 # Test_for_Stepik
-homework tests for stepik
+Homework tests for stepik
+Данный файл предназначен для описания цели данного репозитория - обучение. 
+Курс - https://stepik.org/course/575/
